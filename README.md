@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GOJISUNNIE
+- 👋 Hi, I’m SUNNIE
 - 👀 I’m interested in ...Data analytics
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... any related project
